@@ -1,0 +1,38 @@
+[2014-07-28 10:54:42.199] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "area-server-2"
+[2014-07-28 10:54:42.571] [INFO] console - [data sync component] load mapping file done.
+[2014-07-28 10:54:43.708] [INFO] console - info: socket.io started
+[2014-07-28 10:54:43.839] [INFO] pomelo-admin - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "area", "127.0.0.1", 3005
+[2014-07-28 10:54:44.431] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" enter after start...
+[2014-07-28 10:54:44.432] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" finish start
+[2014-07-28 10:54:44.432] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" startup in 1861 ms
+[2014-07-28 11:08:29.524] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "area-server-2"
+[2014-07-28 11:08:29.910] [INFO] console - [data sync component] load mapping file done.
+[2014-07-28 11:08:31.018] [INFO] console - info: socket.io started
+[2014-07-28 11:08:31.111] [INFO] pomelo-admin - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "area", "127.0.0.1", 3005
+[2014-07-28 11:08:31.768] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" enter after start...
+[2014-07-28 11:08:31.769] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" finish start
+[2014-07-28 11:08:31.769] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" startup in 1858 ms
+[2014-07-28 11:08:31.774] [DEBUG] pomelo - [36m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/modules/watchdog.js] [39m[area-server-2] receive addServer signal: {"action":"addServer","server":{"main":"/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/app.js","env":"development","id":"area-server-3","host":"127.0.0.1","port":3252,"area":3,"serverType":"area","pid":3257}}
+[2014-07-28 11:10:28.187] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "area-server-2"
+[2014-07-28 11:10:28.570] [INFO] console - [data sync component] load mapping file done.
+[2014-07-28 11:10:29.827] [INFO] console - info: socket.io started
+[2014-07-28 11:10:29.931] [INFO] pomelo-admin - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "area", "127.0.0.1", 3005
+[2014-07-28 11:10:30.556] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" enter after start...
+[2014-07-28 11:10:30.557] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" finish start
+[2014-07-28 11:10:30.557] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" startup in 1987 ms
+[2014-07-28 11:14:13.192] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "area-server-2"
+[2014-07-28 11:14:13.618] [INFO] console - [data sync component] load mapping file done.
+[2014-07-28 11:14:14.791] [INFO] console - info: socket.io started
+[2014-07-28 11:14:14.882] [INFO] pomelo-admin - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "area", "127.0.0.1", 3005
+[2014-07-28 11:14:15.459] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" enter after start...
+[2014-07-28 11:14:15.464] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" finish start
+[2014-07-28 11:14:15.464] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" startup in 1845 ms
+[2014-07-28 11:14:15.467] [DEBUG] pomelo - [36m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/modules/watchdog.js] [39m[area-server-2] receive addServer signal: {"action":"addServer","server":{"main":"/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/app.js","env":"development","id":"area-server-3","host":"127.0.0.1","port":3252,"area":3,"serverType":"area","pid":3455}}
+[2014-07-28 14:52:51.527] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39mapplication inited: "area-server-2"
+[2014-07-28 14:52:51.944] [INFO] console - [data sync component] load mapping file done.
+[2014-07-28 14:52:53.076] [INFO] console - info: socket.io started
+[2014-07-28 14:52:53.195] [INFO] pomelo-admin - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "area", "127.0.0.1", 3005
+[2014-07-28 14:52:53.664] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" enter after start...
+[2014-07-28 14:52:53.665] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" finish start
+[2014-07-28 14:52:53.665] [INFO] pomelo - [32m[/Users/lixiaodong/Documents/projects/lordofpomelo/game-server/node_modules/pomelo/lib/application.js] [39m"area-server-2" startup in 1720 ms
+[2014-07-28 14:53:00.655] [INFO] console - the content is null!
